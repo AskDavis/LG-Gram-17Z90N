@@ -13,6 +13,8 @@
 - I have had this laptop since November, spent so many hours on this (so far I havent found anyone who has had success) and Finally got it to work YAY!
 - I am excited to get this fully finished but still have more to do! Will update when I fix whats not working!
 
+![Screenshot](/Images/AboutThisMac.png)
+
 ## Instructions
 ### 1. BIOS Settings
 - Hold F2 to enter BIOS on boot up
