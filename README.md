@@ -9,11 +9,13 @@
 | Sound Card          | Conexant CX8200                         |
 | Wireless Card       | Intel® Wi-Fi 6 AX201                    |
 
-## Work In Progress
+# Work In Progress
+- I have had this laptop since November, spent so many hours on this (so far I havent found anyone who has had success) and Finally got it to work YAY!
+- I am excited to get this fully finished but still have more to do! Will update when I fix whats not working!
 
 ## Instructions
 ### 1. BIOS Settings
-- Hold F2 to enter BIOS on boot up,
+- Hold F2 to enter BIOS on boot up
 - Press CTRL-ALT-F7 to open Advanced Options
 - Main - Boot Features - Quick Boot => Disabled
 - Advanced - Intel Advanced Menu - CPU Configuration - Software Guard Extentsions (SGX) => Disabled
@@ -31,11 +33,8 @@
 - Boot Opencore and select Installer and Install Big Sur.
 
 ## Notes
-- I am excited to get this to work but still have more to do! will update when i fix whats not working!
-
 - If the system Crashes, Kernal Panics, or you manually shut it down you will have to re-enter BIOS settings above. (Havent figured out how to save them even if it kernal panics)
 - Graphics glitches when booting then is Completely Fine after the first 10-20 or so seconds.
-
 
 ### Working
 - WIFI
