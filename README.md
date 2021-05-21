@@ -30,7 +30,7 @@
 - Follow Guide to Add to config.plist - https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/icelake.html#platforminfo
 
 ### 3. Boot Installer
-- Boot Opencore and select Installer and Install Big Sur.
+- Boot Opencore, select installer, and Install Big Sur. (Youll have to Create a MacOS Big Sur installer)
 
 ## Notes
 - The NVME Drive that comes with this Laptop is a SKHynix 512GB which is not supported by Mac OS, Please replace it as it will not boot with it installed. (I bought a WD SN750 500GB that worked great).
