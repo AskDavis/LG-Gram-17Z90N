@@ -1,5 +1,5 @@
 # [LG Gram 17Z90N Hackintosh](https://www.lg.com/us/laptops/lg-17z90n-r.aac8u1-ultra-slim-laptop)
-
+### Opencore Version: 0.6.9
 | Specification       | Details                                 |
 | ------------------- | --------------------------------------- |
 | Model               | LG gram 17 - 2020 (17Z90N)              |
@@ -37,7 +37,7 @@
 ## Notes
 - The NVME Drive that comes with this Laptop is a SKHynix 512GB which is not supported by Mac OS, Please replace it as it will not boot with it installed. (I bought a WD SN750 500GB that worked great).
 - If the system Crashes, Kernal Panics, or you manually shut it down you will have to re-enter BIOS settings above. (Havent figured out how to save them even if it kernal panics)
-- Graphics glitches when booting then is Completely Fine after the first 10-20 or so seconds.
+- Graphics glitches when booting then is completely fine after the first 10-20 or so seconds.
 
 ### Working
 - WIFI
