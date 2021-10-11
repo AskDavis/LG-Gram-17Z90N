@@ -42,7 +42,7 @@
 
 ### Working
 - WIFI
-- Blutooth
+- Bluetooth
 - Sound
 - Graphics Acceleration
 - Keyboard
