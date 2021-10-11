@@ -23,6 +23,7 @@
 - Advanced - Intel Advanced Menu - CPU Configuration - Software Guard Extentsions (SGX) => Disabled
 - Advanced - Intel Advanced Menu - Power & Performance - "CPU - Power Management Control" - CPU Lock Configuration - CFG Lock => Disabled and Overclocking Lock => Disabled 
 - Advanced - Intel Advanced Menu - System Agent (SA) Configuration - Graphics Configuration - DVMT Pre-Allocated => 64M
+- Advanced - Intel Advanced Menu - PCH-IO Configuration - Security Configuration - Force unlock on all GPIO pads => Enabled (Thanks 1OldSWguy)
 - Advanced - Intel Advanced Menu - Platform Settings - System Time and Alarm Source => Legacy RTC
 - Exit - Exit Saving Changes
 
@@ -45,16 +46,18 @@
 - Sound
 - Graphics Acceleration
 - Keyboard
+- Trackpad
+- Battery Settings
+- Webcam
+
 ### Partial Working
 - USB (Two of the 3 support hot plug)
 ### Not Working
 - Thunderbolt /  USB C
-- Trackpad
 - HDMI - (not tested)
-- Battery Settings
-- Webcam
 - FingerPrint Reader
 - FN keys for brightness
 
 ## Credits
 - Thanks [Opencore community](https://github.com/acidanthera/OpenCorePkg)
+- Thanks 1OldSWguy
