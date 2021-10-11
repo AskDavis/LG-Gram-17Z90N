@@ -38,7 +38,7 @@
 ## Notes
 - The NVME Drive that comes with this Laptop is a SKHynix 512GB which is not supported by Mac OS, Please replace it as it will not boot with it installed. (I bought a WD SN750 500GB that worked great).
 - If the system Crashes, Kernal Panics, or you manually shut it down you will have to re-enter BIOS settings above. (Havent figured out how to save them even if it kernal panics)
-- Graphics glitches when booting then is completely fine after the first 10-20 or so seconds.
+Fixed - Graphics glitches when booting then is completely fine after the first 10-20 or so seconds. (Fixed Thanks to 1OldSWguy)
 
 ### Working
 - WIFI
