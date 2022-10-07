@@ -1,5 +1,5 @@
 # [LG Gram 17Z90N Hackintosh](https://www.lg.com/us/laptops/lg-17z90n-r.aac8u1-ultra-slim-laptop)
-### Opencore Version: 0.6.9
+### Opencore Version: 0.8.5
 | Specification       | Details                                 |
 | ------------------- | --------------------------------------- |
 | Model               | LG gram 17 - 2020 (17Z90N)              |
@@ -12,8 +12,9 @@
 # Work In Progress
 - I have had this laptop since November, spent so many hours on this (so far I havent found anyone who has had success) and Finally got it to work YAY!
 - I am excited to get this fully finished but still have more to do! Will update when I fix whats not working!
+- TrackPad right click doesnt work with two fingers after last update, using the latest VoodooI2C. Cant seem to figure out why.
 
-![Screenshot](/Images/AboutThisMac.png)
+![Screenshot](/Images/AboutThisMac-Monterey.png)
 
 ## Instructions
 ### 1. BIOS Settings
@@ -25,6 +26,7 @@
 - Advanced - Intel Advanced Menu - System Agent (SA) Configuration - Graphics Configuration - DVMT Pre-Allocated => 64M
 - Advanced - Intel Advanced Menu - PCH-IO Configuration - Security Configuration - Force unlock on all GPIO pads => Enabled (Thanks 1OldSWguy)
 - Advanced - Intel Advanced Menu - Platform Settings - System Time and Alarm Source => Legacy RTC
+- Advanced - Intel Advanced Menu - ACPI Settings - Low Power S0 Idle Capability => Disabled
 - Exit - Exit Saving Changes
 
 ### 2. Generate SMBIOS
@@ -49,12 +51,13 @@
 - Trackpad
 - Battery Settings
 - Webcam
+- USB-C
 
 ### Partial Working
 - USB (Two of the 3 support hot plug)
 ### Not Working
-- Thunderbolt /  USB C
-- HDMI - (not tested)
+- Thunderbolt
+- HDMI
 - FingerPrint Reader
 - FN keys for brightness
 

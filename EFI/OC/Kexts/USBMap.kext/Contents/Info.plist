@@ -43,152 +43,170 @@
 				<key>kUSBMuxEnabled</key>
 				<true/>
 				<key>port-count</key>
-				<data>EAAAAA==</data>
+				<data>
+				EAAAAA==
+				</data>
 				<key>ports</key>
 				<dict>
 					<key>HS01</key>
 					<dict>
-						<key>Comment</key>
-						<string>RightFront USB 2.0</string>
+						<key>#port</key>
+						<data>
+						AQAAAA==
+						</data>
 						<key>UsbConnector</key>
-						<integer>0</integer>
-						<key>port</key>
-						<data>AQAAAA==</data>
+						<integer>3</integer>
 					</dict>
 					<key>HS02</key>
 					<dict>
-						<key>Comment</key>
-						<string>LG Camera</string>
 						<key>UsbConnector</key>
 						<integer>255</integer>
 						<key>port</key>
-						<data>AgAAAA==</data>
+						<data>
+						AgAAAA==
+						</data>
 					</dict>
 					<key>HS03</key>
 					<dict>
-						<key>Comment</key>
-						<string>RightRear USB 2.0</string>
+						<key>#port</key>
+						<data>
+						AwAAAA==
+						</data>
 						<key>UsbConnector</key>
-						<integer>0</integer>
-						<key>port</key>
-						<data>AwAAAA==</data>
+						<integer>3</integer>
 					</dict>
 					<key>HS04</key>
 					<dict>
-						<key>Comment</key>
-						<string>Left USB 2.0</string>
+						<key>#port</key>
+						<data>
+						BAAAAA==
+						</data>
 						<key>UsbConnector</key>
-						<integer>0</integer>
-						<key>port</key>
-						<data>BAAAAA==</data>
+						<integer>3</integer>
 					</dict>
 					<key>HS05</key>
 					<dict>
 						<key>#port</key>
-						<data>BQAAAA==</data>
+						<data>
+						BQAAAA==
+						</data>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 					</dict>
 					<key>HS06</key>
 					<dict>
 						<key>#port</key>
-						<data>BgAAAA==</data>
+						<data>
+						BgAAAA==
+						</data>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 					</dict>
 					<key>HS07</key>
 					<dict>
-						<key>Comment</key>
-						<string>USB-C</string>
 						<key>UsbConnector</key>
-						<integer>9</integer>
+						<integer>3</integer>
 						<key>port</key>
-						<data>BwAAAA==</data>
+						<data>
+						BwAAAA==
+						</data>
 					</dict>
 					<key>HS08</key>
 					<dict>
 						<key>#port</key>
-						<data>CAAAAA==</data>
+						<data>
+						CAAAAA==
+						</data>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 					</dict>
 					<key>HS09</key>
 					<dict>
 						<key>#port</key>
-						<data>CQAAAA==</data>
+						<data>
+						CQAAAA==
+						</data>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 					</dict>
 					<key>HS10</key>
 					<dict>
-						<key>Comment</key>
-						<string>Bluetooth</string>
+						<key>#port</key>
+						<data>
+						CgAAAA==
+						</data>
 						<key>UsbConnector</key>
-						<integer>255</integer>
-						<key>port</key>
-						<data>CgAAAA==</data>
+						<integer>3</integer>
 					</dict>
 					<key>HS11</key>
 					<dict>
 						<key>#port</key>
-						<data>CwAAAA==</data>
+						<data>
+						CwAAAA==
+						</data>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 					</dict>
 					<key>HS12</key>
 					<dict>
 						<key>#port</key>
-						<data>DAAAAA==</data>
+						<data>
+						DAAAAA==
+						</data>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 					</dict>
 					<key>SS01</key>
 					<dict>
-						<key>Comment</key>
-						<string>RightRear USB 3.0</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
-						<data>DQAAAA==</data>
+						<data>
+						DQAAAA==
+						</data>
 					</dict>
 					<key>SS02</key>
 					<dict>
-						<key>Comment</key>
-						<string>RightFront USB 3.0</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
-						<data>DgAAAA==</data>
+						<data>
+						DgAAAA==
+						</data>
 					</dict>
 					<key>SS03</key>
 					<dict>
-						<key>Comment</key>
-						<string>MicroSD</string>
+						<key>#port</key>
+						<data>
+						DwAAAA==
+						</data>
 						<key>UsbConnector</key>
 						<integer>3</integer>
-						<key>port</key>
-						<data>DwAAAA==</data>
 					</dict>
 					<key>SS04</key>
 					<dict>
-						<key>Comment</key>
-						<string>Left USB 3.0</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
-						<data>EAAAAA==</data>
+						<data>
+						EAAAAA==
+						</data>
 					</dict>
 					<key>SS05</key>
 					<dict>
 						<key>#port</key>
-						<data>EQAAAA==</data>
+						<data>
+						EQAAAA==
+						</data>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 					</dict>
 					<key>SS06</key>
 					<dict>
 						<key>#port</key>
-						<data>EgAAAA==</data>
+						<data>
+						EgAAAA==
+						</data>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 					</dict>
