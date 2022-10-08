@@ -27,6 +27,7 @@
 - Advanced - Intel Advanced Menu - PCH-IO Configuration - Security Configuration - Force unlock on all GPIO pads => Enabled (Thanks 1OldSWguy)
 - Advanced - Intel Advanced Menu - Platform Settings - System Time and Alarm Source => Legacy RTC
 - Advanced - Intel Advanced Menu - ACPI Settings - Low Power S0 Idle Capability => Disabled
+- Security - Secure Boot Configuration - Secure Boot Option - Disabled
 - Exit - Exit Saving Changes
 
 ### 2. Generate SMBIOS
@@ -51,7 +52,7 @@
 - Trackpad
 - Battery Settings
 - Webcam
-- USB-C
+- USB-C (Sleep Crashes with dock)
 
 ### Partial Working
 - USB (Two of the 3 support hot plug)
