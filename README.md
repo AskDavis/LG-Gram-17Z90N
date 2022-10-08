@@ -12,7 +12,6 @@
 # Work In Progress
 - I have had this laptop since November, spent so many hours on this (so far I havent found anyone who has had success) and Finally got it to work YAY!
 - I am excited to get this fully finished but still have more to do! Will update when I fix whats not working!
-- TrackPad right click doesnt work with two fingers after last update, using the latest VoodooI2C. Cant seem to figure out why.
 
 ![Screenshot](/Images/AboutThisMac-Monterey.png)
 
@@ -60,7 +59,6 @@
 - Thunderbolt
 - HDMI
 - FingerPrint Reader
-- FN keys for brightness
 
 ## Credits
 - Thanks [Opencore community](https://github.com/acidanthera/OpenCorePkg)
