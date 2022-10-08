@@ -65,3 +65,4 @@
 ## Credits
 - Thanks [Opencore community](https://github.com/acidanthera/OpenCorePkg)
 - Thanks 1OldSWguy
+- Thanks daniyo27
