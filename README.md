@@ -52,9 +52,11 @@
 - Battery Settings
 - Webcam
 - USB-C (Sleep Crashes with dock)
+- Brightness Keys
 
 ### Partial Working
 - USB (Two of the 3 support hot plug)
+- Left-side USB-A port.
 ### Not Working
 - Thunderbolt
 - HDMI
