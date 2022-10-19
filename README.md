@@ -23,6 +23,7 @@
 - Advanced - Intel Advanced Menu - CPU Configuration - Software Guard Extentsions (SGX) => Disabled
 - Advanced - Intel Advanced Menu - Power & Performance - "CPU - Power Management Control" - CPU Lock Configuration - CFG Lock => Disabled and Overclocking Lock => Disabled 
 - Advanced - Intel Advanced Menu - System Agent (SA) Configuration - Graphics Configuration - DVMT Pre-Allocated => 64M
+- Advanced - Intel Advanced Menu - PCH-IO Configuration - USB Configuration - XHCI Compliance Mode => Enabled
 - Advanced - Intel Advanced Menu - PCH-IO Configuration - Security Configuration - Force unlock on all GPIO pads => Enabled (Thanks 1OldSWguy)
 - Advanced - Intel Advanced Menu - Platform Settings - System Time and Alarm Source => Legacy RTC
 - Advanced - Intel Advanced Menu - ACPI Settings - Low Power S0 Idle Capability => Disabled
@@ -51,12 +52,15 @@
 - Trackpad
 - Battery Settings
 - Webcam
-- USB-C (Sleep Crashes with dock)
+- USB-C
 - Brightness Keys
+- USB
 
 ### Partial Working
-- USB (Two of the 3 support hot plug)
-- Left-side USB-A port.
+- USB-C (Sleep Crashes with dock)
+  - might be fixed with latest, dont have a dock to test
+- Sleep 
+
 ### Not Working
 - Thunderbolt
 - HDMI
